@@ -1,0 +1,16 @@
+The game "Why did the chicken cross the road" has 16 different levels.
+The aim is to cross a number of lanes with active traffic coming from left-to-right without getting hit by the cars.
+The average player will strategize the game by crossing when they feel they have enough distance between the oncoming car and wait on the divider of the lane to make the same assessment for oncoming cars in this next lane. They do this until they reach the end.
+If the player reaches the end (which is on the pavement, on the other side of the road) they win and have finished the level.
+If the player gets hit by a car, they lose. As a part of the game animations, the player will hear a loud honking noise from the car that hit them and float into the air. They will remain in the air until the next level is started. When viewing images, make sure to not get confused in circumstances like this when the photo is in first-person view. Additionally, you can tell if a frame is in first-person view if you are unable to see the player/chicken elsewhere in the frame.
+
+The 16 levels are designed manipulating the following five parameters:
+- Frequency of cars: How packed and close together the cars are in traffic. This makes the level harder because the user is restricted in space to fit between cars when crossing the street. This was found to be the hardest parameter by average vote.
+- Number of lanes: This is the number of lanes the player has to pass in-order to complete the level. More lanes in the level means the user has to cross more distance and cars to get to the finish. This can make the user spend more time in the level. Second hardest parameter by average vote.
+- Car Speed: This is thee speed at which cars travel on the road. This makes it more difficult for the user to cross the street in a timely manner as cars going faster means the user needs to be decisive and quick. This was the third hardest paremeter by average vote.
+- Car Size: This makes each car larger in dimensions by a specific value. This can the space between lanes feel tighter.
+- Player tardiness: This is a multiplier that was intended by the developer to make the user run slower by a multiplier value. This adjustment had the least affect in average perceived difficulty. It was on average rated only slightly more difficult than the base level.
+
+The 16 levels are designed as follows:
+The base level has all five parameters set to be the easiest.
+On-top of the difficulty values of the base level, each parameter is individually and incrementally increased to make the game more difficult. This is done three times for each parameter. For the sake of explanation, these levels are described in the format [Parameter name] [number increment] with a higher increment supposedly corresponding to a higher difficulty version of the parameter manipulated. For example, car frequency 1 is supposed to be easier than car freqency 3. However, this does not necessarily mean car frequency 1 is easier than car size 3, as they are independent. In-fact, car frequency 1 was seen as more difficult. Another example is car speed 3 was seen as more difficult that car size 2. The order for levels being perceived as difficult can vary from user to user. However, the average trend is likely to show for most users.

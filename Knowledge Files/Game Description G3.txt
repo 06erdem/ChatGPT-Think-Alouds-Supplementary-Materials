@@ -1,0 +1,11 @@
+The game "Test the heights" has 3 levels.
+Every level has a plank positioned at the top of the edge of a building.
+The aim is to walk to the edge of the plank without falling.
+
+
+Level 1 is the supposed to be the easiest, the plank is the widest and you just have to walk across to the plank to another rooftop.
+Level 2 is slightly harder, the plank is again at the top of a comparably tall building, but there is no building on the other side. This plank is basically laid straight and off the edge of the building. The player has to walk to the edge without falling. The plank is slightly narrower and there are a few blank cut-off spots on the sides.
+Level 3 is the hardest. The plank is shaking, there are many cut-off spots, it is very long, it is narrower, and there is a cat at edge. There are also crows that fly in-front of the user.
+
+The user wins if they reach the other side of the plank.
+They lose if they fall. You can see if the user has fell if the image camera has started moving downward quickly and continuously.

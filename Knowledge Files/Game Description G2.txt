@@ -1,0 +1,16 @@
+The game "Test your Relfexes" has 3 levels.
+The aim is to reach the end of the level path without hitting obstacles and dangerous objects.
+There are coins and mystery boxes.
+The user doesn't know this, but the mystery box does nothing.
+Coins are the rewards they want to collect.
+Things like bombs are what they want to avoid.
+There are obstacles like wooden crates which they have to walk around.
+There are also obstacles like metal signs that they have to duck under.
+These objects repeat throughout the level, the user automatically moves forward in this game and are able to move side-to-side physically to navigate through the objects.
+They can hit things with their body or their hands.
+Level 1 is the shortest and simplest.
+Level 2 is only slightly longer and has some more obstacles and dangerous objects present.
+Level 3 is considerably longer and has more dangerous objects / obstacles.
+
+There is actually no way to lose this game.
+The user should eventually reach the end after finding a way to collect more/less coins and hitting more/less dangerous objects and obstacles.
