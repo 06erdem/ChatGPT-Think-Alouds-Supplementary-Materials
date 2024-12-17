@@ -4,7 +4,7 @@ This repository aims to provide supplementary materials for the research paper t
 
 We utilize LLMs to aid in the process of game testing. In our experiments, players play three VR games while thinking aloud. Their gameplay footage and audio are reviewed by our ChatGPT powered bot for emotion analysis. Our bot creates estimations on six emotions and perceived difficulty.
 
-We utilize prompt engineering techniques to task our bot to conduct emotion analysis on players playing a VR game via the media provided. Each game had a similar prompt, as all detailed similar output expectations, with minor modifications per-game. The prompts outline important information such as what to expect (VR gamee), literature to take as reference for emotion analysis, creativity (prefer consistency), and output format.
+We utilize prompt engineering techniques to task our bot to conduct emotion analysis on players playing a VR game via the media provided. Each game had a similar prompt, as all detailed similar output expectations, with minor modifications per-game. The prompts outline important information such as what to expect (VR game), literature to take as reference for emotion analysis, creativity (prefer consistency), and output format.
 
 ### Prompts
 - **InstructionsG1.txt**: Instructions for game 1 - 'Why did the chicken cross the road'.
